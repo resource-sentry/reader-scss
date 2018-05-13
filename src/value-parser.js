@@ -13,7 +13,7 @@ class ValueParser {
 
     addValue(name, value, category) {
         this.logger.verbose(`Register Value, name: "${chalk.blue(name)}", data: ${value}, category: ${category}`);
-        this.valueHandler(name, value, category);
+        this.valueHandler(category, name, value);
     }
 
     parse(name, valueData) {
