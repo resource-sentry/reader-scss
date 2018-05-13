@@ -1,0 +1,27 @@
+{
+  "name": "@resource-sentry/reader-scss",
+  "version": "1.0.0",
+  "description": "Resource Sentry SCSS Reader.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resource-sentry/reader-scss.git"
+  },
+  "keywords": [
+    "static",
+    "scss",
+    "variables",
+    "styles",
+    "reader",
+    "resource-sentry"
+  ],
+  "author": "Nicolas Siver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resource-sentry/reader-scss/issues"
+  },
+  "homepage": "https://github.com/resource-sentry/reader-scss#readme"
+}
