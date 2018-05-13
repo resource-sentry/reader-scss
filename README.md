@@ -4,6 +4,9 @@ Extracts all variables from the provided `.scss` file. This plugin does not perf
 
 Supports: `color`, `dimension`, `operation`, `text`, `simple value` and `variable` variables.
 
+![Version](https://img.shields.io/npm/v/@resource-sentry/reader-scss.svg)
+![Dependencies](https://david-dm.org/resource-sentry/reader-scss.svg)
+
 ## Installation
 
 > yarn add --dev @resource-sentry/reader-scss
